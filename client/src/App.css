@@ -71,7 +71,6 @@ body{
   /* PORTFOLIO PAGE */
   .projectRow{
     text-align: center;
-    
   }
 
 
@@ -81,8 +80,6 @@ body{
     justify-content: center;
     flex-direction: column;
   }
-
-
  }
 
 /*Medium devices (tablets, up to 768px)  */
