@@ -37,6 +37,7 @@ function Footer() {
         	          <ul>
 		                  <li><a href="https://www.github.com/jidelson"><i className="fa fa-github" aria-hidden="true"></i><p>Github</p></a></li>
 		                  <li><a href="https://www.linkedin.com/in/joe-idelson/"><i className="fa fa-linkedin" aria-hidden="true"></i><p>LinkedIn</p></a></li>
+                      <li><a href="https://www.youtube.com/@JoJo-Dev"><i class="fa fa-youtube-play" aria-hidden="true"></i><p>YouTube</p></a></li>
 				                {/* <li><a href="https://joeidelson.medium.com/"><i className="fa fa-medium" aria-hidden="true"></i>Medium</a></li> */}
 			              </ul>
 		              </div>
