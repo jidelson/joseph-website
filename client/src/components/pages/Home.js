@@ -75,7 +75,7 @@ function Home() {
                                 for any challenge I am faced with.    
                             </p>
                             <p className="para">
-                                I graduated from Lambda School (now called Bloom Institute of Technology), a nine month intensive boot-camp style school, where I was taught the most 
+                                I completed the Lambda School program (now called Bloom Institute of Technology), a nine month intensive boot-camp style school, where I was taught the most 
                                 contemporary techniques and skills for web development.
                                 After attending Lambda, I got additional training through a company called Revature.
                             </p>
