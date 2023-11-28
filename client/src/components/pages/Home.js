@@ -37,7 +37,6 @@ function Home() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 col-md-12">
-                            {/* <h3 className="intro">Hey there! I am</h3> */}
                             <h1 className="name text-uppercase" style={{marginTop: "18%"}}>Joe Idelson</h1>
                             <h4 className="jobTitle text-uppercase">Full Stack Web Developer</h4>
                             <div className="site-buttons">
