@@ -80,9 +80,9 @@ function Home() {
                                 After attending Lambda, I got additional training through a company called Revature.
                             </p>
                             <p className='para'>
-                                Currently, I am employed at Infosys and have gained new skills working primarily as a database administrator.
-                                When I am not working, I enjoy spending time with family and friends, watching sports like basketball and baseball, and working on 
-                                digital art projects.
+                                Currently, I am employed at Infosys where I have improved my skills as well as learned new ones, while working in different roles
+                                such as a database administrator and developer.
+                                When I am not working, I enjoy spending time with family, working on digital art projects, cooking with a smoker, and learning new skills.
                             </p>
                         </div>
                     </div>
