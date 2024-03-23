@@ -33,9 +33,9 @@ function About() {
                             into web development.
                         </p>
                         <p className="para pt-2">
-                            During this time, on a daily basis I was working in the Adobe Suite and primarily Autodesk Maya, along with
+                            During this time, on a daily basis I was working with primarily Autodesk Maya, the Adobe Suite, along with
                             a number of other programs. As time progressed, I noticed I was drawn more towards the skills in the 
-                            animation field that were more technical including rigging. 
+                            animation field that were more technical including rigging.
                         </p>
                     </div>
                     <div className="col-md-4 py-4">
@@ -49,7 +49,13 @@ function About() {
                     <div className="col-md-4 pt-4">
                         <img src={wc} alt="walnutCreek" style={{maxWidth: "90%"}} />
                     </div>
+                    
                     <div className='col-md-4 py-4'>
+                        <div className="text-center">
+                            <a className="btn button primary-button mr-4 text-uppercase" href="https://drive.google.com/file/d/1KmDfrI-2tpXXLz8X6C5H4KOtaj3Du0MX/view?usp=sharing">
+                                View my diploma
+                            </a>
+                        </div>
                         <p className="para pt-4">
                             After graduating Expression, I worked as a freelancer, and worked on many different projects from graphic design
                             to fully rendered 3D animations. 
