@@ -103,10 +103,10 @@ function About() {
                             other interactive exercises. Projects were done individually, in small groups, as well as large groups of about 25 developers. 
                         </p>
                         <p className='para pt-2'>
-                            After Revature, I was hired at Infosys where I currently work since December of 2021. At Infosys I started off by getting more trained by 
-                            taking courses on subjects such as Java, Spring, Microservices, React, Cloud Computing, multiple AWS courses, and DevOps. After training 
-                            I have been a part of a client project working primarily as a Database Administrator. More details regarding this project can be viewed on 
-                            my resume.
+                            After Revature I began working at Infosys. I got hired at Infosys in December of 2021. Since working at Infosys I have been further trained in technologies such 
+                            as Java, Spring framework, Microservices, React, Cloud Computing, AWS, DevOps, Cassandra, NoSQL, Data Privacy, AI, cyber security, and emerging technologies. I 
+                            have been part of two client projects working in different roles such as a database administrator and developer. More details regarding these projects can be 
+                            viewed on my resume.
                         </p>
                     </div>
                     <div className='col-md-4 mt-5'>
