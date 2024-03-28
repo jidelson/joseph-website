@@ -25,6 +25,7 @@ import spring from '../../images/spring.png';
 import angular from '../../images/angular.png';
 import kibana from '../../images/kibana.jpg';
 import cassandra from '../../images/cassandra.jpg';
+import flask from '../../images/flask.jpg';
 
 import dollar from '../../images/dollar.jpg';
 import flashcards from '../../images/flashcards.jpg';
@@ -297,6 +298,16 @@ function Home() {
                                 </div>
                                 <div className="card-body text-center">
                                     <h4 className="card-title font-roboto">Cassandra</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-12">
+                            <div className="skills">
+                                <div className="skills-img text-center-py-4">
+                                    <img src={flask} alt="" className="rounded mx-auto d-block img-fluid" />
+                                </div>
+                                <div className="card-body text-center">
+                                    <h4 className="card-title font-roboto">Flask</h4>
                                 </div>
                             </div>
                         </div>
