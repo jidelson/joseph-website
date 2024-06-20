@@ -27,6 +27,7 @@ import kibana from '../../images/kibana.jpg';
 import cassandra from '../../images/cassandra.jpg';
 import flask from '../../images/flask.jpg';
 import postman from '../../images/postman.jpg';
+import gitlab from '../../images/gitlab.jpg';
 
 import dollar from '../../images/dollar.jpg';
 import flashcards from '../../images/flashcards.jpg';
@@ -285,7 +286,7 @@ function Home() {
                         <div className="col-lg-3 col-md-6 col-sm-12">
                             <div className="skills">
                                 <div className="skills-img text-center-py-4">
-                                    <img src={kibana} alt="" className="rounded mx-auto d-block img-fluid" />
+                                    <img src={kibana} alt="Kibana" className="rounded mx-auto d-block img-fluid" />
                                 </div>
                                 <div className="card-body text-center">
                                     <h4 className="card-title font-roboto">Kibana</h4>
@@ -295,7 +296,7 @@ function Home() {
                         <div className="col-lg-3 col-md-6 col-sm-12">
                             <div className="skills">
                                 <div className="skills-img text-center-py-4">
-                                    <img src={cassandra} alt="" className="rounded mx-auto d-block img-fluid" />
+                                    <img src={cassandra} alt="Cassandra" className="rounded mx-auto d-block img-fluid" />
                                 </div>
                                 <div className="card-body text-center">
                                     <h4 className="card-title font-roboto">Cassandra</h4>
@@ -305,7 +306,7 @@ function Home() {
                         <div className="col-lg-3 col-md-6 col-sm-12">
                             <div className="skills">
                                 <div className="skills-img text-center-py-4">
-                                    <img src={flask} alt="" className="rounded mx-auto d-block img-fluid" />
+                                    <img src={flask} alt="Flask" className="rounded mx-auto d-block img-fluid" />
                                 </div>
                                 <div className="card-body text-center">
                                     <h4 className="card-title font-roboto">Flask</h4>
@@ -315,10 +316,20 @@ function Home() {
                         <div className="col-lg-3 col-md-6 col-sm-12">
                             <div className="skills">
                                 <div className="skills-img text-center-py-4">
-                                    <img src={postman} alt="" className="rounded mx-auto d-block img-fluid" />
+                                    <img src={postman} alt="Postman" className="rounded mx-auto d-block img-fluid" />
                                 </div>
                                 <div className="card-body text-center">
                                     <h4 className="card-title font-roboto">Postman</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-12">
+                            <div className="skills">
+                                <div className="skills-img text-center-py-4">
+                                    <img src={gitlab} alt="GitLab" className="rounded mx-auto d-block img-fluid" />
+                                </div>
+                                <div className="card-body text-center">
+                                    <h4 className="card-title font-roboto">GitLab</h4>
                                 </div>
                             </div>
                         </div>
