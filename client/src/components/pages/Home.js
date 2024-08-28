@@ -28,6 +28,7 @@ import cassandra from '../../images/cassandra.jpg';
 import flask from '../../images/flask.jpg';
 import postman from '../../images/postman.jpg';
 import gitlab from '../../images/gitlab.jpg';
+import maven from '../../images/maven.jpg';
 
 import dollar from '../../images/dollar.jpg';
 import flashcards from '../../images/flashcards.jpg';
@@ -330,6 +331,16 @@ function Home() {
                                 </div>
                                 <div className="card-body text-center">
                                     <h4 className="card-title font-roboto">GitLab</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-12">
+                            <div className="skills">
+                                <div className="skills-img text-center-py-4">
+                                    <img src={maven} alt="Maven" className="rounded mx-auto d-block img-fluid" />
+                                </div>
+                                <div className="card-body text-center">
+                                    <h4 className="card-title font-roboto">Maven</h4>
                                 </div>
                             </div>
                         </div>
