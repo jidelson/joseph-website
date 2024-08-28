@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.118d3816.css",
-    "main.js": "/static/js/main.c8e27fe7.js",
+    "main.js": "/static/js/main.f5153876.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
-    "static/media/headshot.jpg": "/static/media/headshot.d2b1d9bc540ae3277f1d.jpg",
+    "static/media/headshot.jpg": "/static/media/headshot.e02f07c791951b2a46ef.jpg",
     "static/media/wc.jpg": "/static/media/wc.19ab1d22cc67746078d8.jpg",
     "static/media/resume.pdf": "/static/media/resume.997c0383fda2994280d4.pdf",
     "static/media/cartoon.png": "/static/media/cartoon.3c55921f40bc74be5d69.png",
@@ -12,6 +12,7 @@
     "static/media/dallas.jpg": "/static/media/dallas.69ed89a95197e8d59c44.jpg",
     "static/media/logo2023.png": "/static/media/logo2023.f7d9f261c66358404dd6.png",
     "static/media/dollar.jpg": "/static/media/dollar.021e48587c300ffe37c6.jpg",
+    "static/media/gitlab.jpg": "/static/media/gitlab.0fa03a58d9f963c786d8.jpg",
     "static/media/flask.jpg": "/static/media/flask.ea706e75a641ff4676de.jpg",
     "static/media/kibana.jpg": "/static/media/kibana.6d8c9795c61fd1c50829.jpg",
     "static/media/cassandra.jpg": "/static/media/cassandra.a489bfa421053f4b650c.jpg",
@@ -30,11 +31,11 @@
     "static/media/linux.png": "/static/media/linux.b3b899d20bd0a3b5c9b1.png",
     "index.html": "/index.html",
     "main.118d3816.css.map": "/static/css/main.118d3816.css.map",
-    "main.c8e27fe7.js.map": "/static/js/main.c8e27fe7.js.map",
+    "main.f5153876.js.map": "/static/js/main.f5153876.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.118d3816.css",
-    "static/js/main.c8e27fe7.js"
+    "static/js/main.f5153876.js"
   ]
 }
