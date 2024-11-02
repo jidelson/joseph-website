@@ -19,7 +19,7 @@ function Resume() {
                 <iframe
                     title='resume' 
                     // when you update the link, Replace /view?usp=sharing at the end of the link with /preview..
-                    src="https://drive.google.com/file/d/1B8_nuYQhvMzbZ6ekc9lzSBtkT5zGxbKH/preview" 
+                    src="https://drive.google.com/file/d/1crRlA-qHSz53lxTFHca8EyrXZYTEUHwn/preview"
                     width="100%" 
                     height="100%" 
                 >
